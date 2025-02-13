@@ -12,7 +12,6 @@ This project is a simple implementation of a Reverse Shell, developed as part of
 - [Examples](#examples)
   - [Sending Commands](#sending-commands)
   - [Sending Commands to All Clients](#sending-commands-to-all-clients)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Project Description
@@ -79,8 +78,6 @@ You can send a command to all connected clients using the `sendall` command:
 sendall <command>
 ```
 
-## Contributing
-Contributions are welcome! If you have any suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
